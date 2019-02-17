@@ -138,7 +138,7 @@ After onboarding succeeds, the code transfers 5 KIN to another account. The publ
 
 ## Understanding balance results
 
-Note that when the app transfers 5 KIN to another account, the balance in the account decreases by 5.01 KIN. The addition 0.01 KIN is the fee charged by the blockchain for executing the transaction.
+Note that when the app transfers 5 KIN to another account, the balance in the account decreases by 5.01 KIN. The additional 0.01 KIN is the fee charged by the blockchain for executing the transaction.
 
 Blockchain charges are demoninated in Fee, where 1 KIN = 10E5 FEE.
 
